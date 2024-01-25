@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/stojics1/MONSTER-SEARCH.git/static/css/main.cc9ea614.css",
-    "main.js": "/stojics1/MONSTER-SEARCH.git/static/js/main.490f0124.js",
-    "static/js/787.cf35b873.chunk.js": "/stojics1/MONSTER-SEARCH.git/static/js/787.cf35b873.chunk.js",
-    "index.html": "/stojics1/MONSTER-SEARCH.git/index.html",
-    "main.cc9ea614.css.map": "/stojics1/MONSTER-SEARCH.git/static/css/main.cc9ea614.css.map",
-    "main.490f0124.js.map": "/stojics1/MONSTER-SEARCH.git/static/js/main.490f0124.js.map",
-    "787.cf35b873.chunk.js.map": "/stojics1/MONSTER-SEARCH.git/static/js/787.cf35b873.chunk.js.map"
+    "main.css": "/MONSTER-SEARCH/static/css/main.cc9ea614.css",
+    "main.js": "/MONSTER-SEARCH/static/js/main.0acbd7c4.js",
+    "static/js/787.cf35b873.chunk.js": "/MONSTER-SEARCH/static/js/787.cf35b873.chunk.js",
+    "index.html": "/MONSTER-SEARCH/index.html",
+    "main.cc9ea614.css.map": "/MONSTER-SEARCH/static/css/main.cc9ea614.css.map",
+    "main.0acbd7c4.js.map": "/MONSTER-SEARCH/static/js/main.0acbd7c4.js.map",
+    "787.cf35b873.chunk.js.map": "/MONSTER-SEARCH/static/js/787.cf35b873.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc9ea614.css",
-    "static/js/main.490f0124.js"
+    "static/js/main.0acbd7c4.js"
   ]
 }
