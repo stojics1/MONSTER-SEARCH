@@ -1,7 +1,7 @@
 {
   "name": "monster-search",
   "version": "0.1.0",
-  "homepage": "https://github.com/stojics1/MONSTER-SEARCH.git",
+  "homepage": "https://github.com/stojics1/MONSTER-SEARCH",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
